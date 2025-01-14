@@ -8,7 +8,7 @@ archivo de saludo para incluir en shell
 ~/saludo.sh
 ~~~
 
-## Importante: Instalar previamente cowsays
+## Importante: Instalar previamente cowsay
 
 ### Debian, Ubuntu
 ~~~
@@ -26,4 +26,4 @@ sudo dnf install cowsay
 sudo pacman -S cowsay
 ~~~
 
-(Tutorial de Uso de Cowsay)[https://itsfoss.com/cowsay/]
+[Tutorial de Uso de Cowsay](https://itsfoss.com/cowsay/)
