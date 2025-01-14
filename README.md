@@ -7,3 +7,23 @@ archivo de saludo para incluir en shell
 #Mensaje de Saludo
 ~/saludo.sh
 ~~~
+
+## Importante: Instalar previamente cowsays
+
+### Debian, Ubuntu
+~~~
+sudo apt update
+sudo apt -y install cowsay
+~~~
+
+### Fedora
+~~~
+sudo dnf install cowsay
+~~~
+
+### Manjaro, Arch
+~~~
+sudo pacman -S cowsay
+~~~
+
+(Tutorial de Uso de Cowsay)[https://itsfoss.com/cowsay/]
